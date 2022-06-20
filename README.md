@@ -21,9 +21,12 @@ A
 
 Websites:
 - Github: https://github.com/JamesFeldmayer
+- Google Drive: https://drive.google.com/
+
+- A
+
 - Vultr (VPS): https://www.vultr.com/
 - Epik (Website Registrar): https://registrar.epik.com/
-- Google Drive: https://drive.google.com/
 
 Applications:
 - Visual Studio Code 
